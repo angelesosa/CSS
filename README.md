@@ -2,7 +2,6 @@
 Repositorio de aprendizaje de CSS
 
 ## **Metodologias**
----
 
 ### **BEM**
 -
